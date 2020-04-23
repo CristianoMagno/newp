@@ -1,0 +1,9 @@
+{
+    "nome" : "Cristiano Mbongo",
+    "numero" : 12,
+    "boolean" : true,
+    "lista" : [1, "er", true, 1.9, null],
+    "objecto" : {
+        "repet" : null
+    }
+}
